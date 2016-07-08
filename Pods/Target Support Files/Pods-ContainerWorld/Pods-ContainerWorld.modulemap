@@ -1,0 +1,6 @@
+framework module Pods_ContainerWorld {
+  umbrella header "Pods-ContainerWorld-umbrella.h"
+
+  export *
+  module * { export * }
+}
